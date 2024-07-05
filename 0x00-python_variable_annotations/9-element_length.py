@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-'''function where annotated parameters and return values with the appropriate types'''
+'''
+function where annotated parameters and
+return values with the appropriate types
+'''
 from typing import Iterable, List, Sequence, Tuple
 
 
