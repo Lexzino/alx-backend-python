@@ -24,7 +24,7 @@ class TestGithubOrgClient(unittest.TestCase):
         mock.assert_called_once_with(f'https://api.github.com/orgs/{input}')
 
     def test_public_repos_url(self):
-        """ 
+        """
         Test the result of _public_repos_url is the expected one
         based on the mocked payload.
         """
