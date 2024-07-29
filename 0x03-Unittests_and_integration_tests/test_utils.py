@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""
-Test access_nested_map function
-"""
+"""Test access_nested_map function"""
 import unittest
 import requests
 from unittest.mock import patch
